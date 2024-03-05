@@ -1,0 +1,22 @@
+name: lat_permission_handler
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.1.2 <4.0.0"
+
+dependencies:
+  app_settings: ^5.1.1
+  device_info_plus: ^9.1.2
+  flutter:
+    sdk: flutter
+  permission_handler: ^11.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
